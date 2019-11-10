@@ -1,0 +1,41 @@
+*{
+ 	margin: 0;
+ 	padding: 0;
+
+ }
+ .kl
+ {
+ 	background-color: #282828;
+ }
+ .header
+ {
+ 	height: 100vh;
+ }
+ .navbar-style
+ {
+ 	box-shadow: 0 5px 10px #efefef;
+ 	text-transform: uppercase;
+ 	background-color: #696969 ;
+
+ }
+ .logo
+ {
+ 	height: 90px;
+ 	padding: 2px 10px;
+ }
+ .icon-bar
+ {
+ 	background: darkorange;
+ }
+.navbar-collapse
+ {
+ 	color :white;
+ }
+ #header
+{
+	margin-left: 100px;
+}
+#amain
+ { margin-left: 100px;
+ 	
+ }
